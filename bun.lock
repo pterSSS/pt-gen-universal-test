@@ -3,7 +3,7 @@
   "configVersion": 0,
   "workspaces": {
     "": {
-      "name": "pt-gen-universal-test",
+      "name": "pt-gen-universal",
       "dependencies": {
         "@hono/node-server": "^1.13.7",
         "cheerio": "^1.1.2",
